@@ -3,6 +3,8 @@
 
 <b>FT Gold Robot</b> is a smart, hands-free trading tool built specifically for trading Gold (XAU/USD) on the MT4 platform. Designed with advanced trading algorithms, it automatically scans the market, detects high-probability trade setups, and executes trades—so you don’t have to.
 
+![image](https://github.com/user-attachments/assets/e5bc3fab-4809-43fe-ba04-fc264403c6b2)
+
 <br>
 
 ## 5 Key Features:
